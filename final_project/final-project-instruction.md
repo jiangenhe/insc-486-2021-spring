@@ -18,7 +18,7 @@ There are several deliverables for your project that will be graded individually
 
 ### Proposal
 
-You use this notebook for your project proposal. You need to describe the title, the motivation, the data, and the initial questions you want to answer through your analysis. The content can be incorporated into your final project.
+You need to describe the title, the motivation, the data, and the initial questions you want to answer through your analysis. The content can be incorporated into your final project.
 
 ### Project Progress Updates
 
